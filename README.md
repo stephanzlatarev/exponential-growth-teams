@@ -46,17 +46,17 @@ The exponential growth team is small because its tasks are only a few and they a
 
 The exponential growth team meets in:
  * Regular (e.g. bi-weekly) meetings to run the selection and design process. The meetings should have agenda:
-   1. Evaluate the current list of exponential growth objectives
-   2. Select the exponential growth objective
-   3. Assess the current design of the business system by the selected objective
-   4. Design changes to improve the business system
-   5. Plan the implementation of the changes
+    1. Evaluate the current list of exponential growth objectives
+    2. Select the exponential growth objective
+    3. Assess the current design of the business system by the selected objective
+    4. Design changes to improve the business system
+    5. Plan the implementation of the changes
  * Ad-hoc (i.e. whenever necessary) meetings with human operators and machine units from the business system to introduce the planned changes in the design
 
 The exponential growth team maintains the following artefacts visible to all stakeholders:
  * 1 exponential growth objective, supported with:
- ** (real-time) measurement of the objective
- ** a set of expected milestones - expected measurements in future points in time
+   * (real-time) measurement of the objective
+   * a set of expected milestones - expected measurements in future points in time
  * 1 design of the business system, supported with:
- ** (real-time) measurements of the linear indicators and deviations
+   * (real-time) measurements of the linear indicators and deviations
  
